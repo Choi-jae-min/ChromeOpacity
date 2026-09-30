@@ -39,19 +39,10 @@
 3. **슬라이더를 움직입니다.**  
    숫자가 낮을수록 크롬 뒤의 화면이 더 많이 비칩니다.
 
-   | 불투명도 | 화면 상태 |
-   | :---: | :--- |
-   | **100%** | 완전히 불투명 |
-   | **60%** | 뒤의 화면이 비치는 반투명 상태 |
-   | **20%** | 뒤의 화면이 많이 비치는 상태 |
-
-20%
-<img width="878" height="624" alt="image" src="https://github.com/user-attachments/assets/45a714be-39b3-4edc-8fd9-33524d7153a8" />
-80%
-<img width="879" height="624" alt="image" src="https://github.com/user-attachments/assets/af22619b-d03b-4003-84e7-b8163019a0a6" />
-100%
-<img width="872" height="627" alt="image" src="https://github.com/user-attachments/assets/2dce7d1a-389c-43db-bea3-522ef002bd23" />
-
+| 불투명도 20% | 불투명도 80% | 불투명도 100% |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/45a714be-39b3-4edc-8fd9-33524d7153a8" width="280" alt="불투명도 20% 화면" /> | <img src="https://github.com/user-attachments/assets/af22619b-d03b-4003-84e7-b8163019a0a6" width="280" alt="불투명도 80% 화면" /> | <img src="https://github.com/user-attachments/assets/2dce7d1a-389c-43db-bea3-522ef002bd23" width="280" alt="불투명도 100% 화면" /> |
+| 뒤 화면이 많이 비침 | 뒤 화면이 조금 비침 | 완전히 불투명 |
 
 4. **필요할 때 원래대로 복원합니다.**  
    **모두 원래대로 복원** 버튼을 누르거나 프로그램을 정상 종료하세요.
