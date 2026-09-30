@@ -45,6 +45,14 @@
    | **60%** | 뒤의 화면이 비치는 반투명 상태 |
    | **20%** | 뒤의 화면이 많이 비치는 상태 |
 
+20%
+<img width="878" height="624" alt="image" src="https://github.com/user-attachments/assets/45a714be-39b3-4edc-8fd9-33524d7153a8" />
+80%
+<img width="879" height="624" alt="image" src="https://github.com/user-attachments/assets/af22619b-d03b-4003-84e7-b8163019a0a6" />
+100%
+<img width="872" height="627" alt="image" src="https://github.com/user-attachments/assets/2dce7d1a-389c-43db-bea3-522ef002bd23" />
+
+
 4. **필요할 때 원래대로 복원합니다.**  
    **모두 원래대로 복원** 버튼을 누르거나 프로그램을 정상 종료하세요.
 
